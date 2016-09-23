@@ -10,6 +10,5 @@ gem 'site_prism'
 gem 'chromedriver-helper'
 gem 'poltergeist'
 
-########Temporarily commented out ##########
 
 gem 'capybara-screenshot', :group => :test
